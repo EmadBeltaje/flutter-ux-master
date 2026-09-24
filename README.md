@@ -9,7 +9,7 @@ Your Flutter UX companion - it watches for the easy-to-miss details (empty/error
 To install this skill into your project, run the following command. The `--agent universal` flag puts it in the standard `.agents/skills` folder that most agents use.
 
 ```bash
-npx skills add dart-lang/skills --skill '*' --agent universal --yes
+npx skills add EmadBeltaje/flutter-ux-master --agent universal --yes
 ```
 
 ## Updating Skills
